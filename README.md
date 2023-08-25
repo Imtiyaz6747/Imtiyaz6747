@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Imtiyaz</h1>
-<h3 align="center">A passionate Full Stav developer from India</h3>
+<h3 align="center">Hello! I'm Mohammed Imtiyaz, a passionate computer programming and information technology student currently pursuing my Master of Computer Application degree. I am seeking an entry-level position in the IT industry where I can learn and grow. I have experience in front-end web development, Java, C, C++, Python, and SQL, as well as digital marketing and Microsoft Office. I am a quick learner, team player, critical thinker, and problem solver with excellent communication skills. I look forward to contributing my skills to a new organization and becoming a successful IT professional.</h3>
+
+- 👨‍💻 All of my projects are available at [https://github.com/Imtiyaz6747](https://github.com/Imtiyaz6747)
+
+- 📄 Know about my experiences [file:///D:/Imtiyaz%20resume/Imtiyaz%203.pdf](file:///D:/Imtiyaz%20resume/Imtiyaz%203.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
