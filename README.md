@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Imtiyaz</h1>
-<h4 align="left">Hello! I'm Mohammed Imtiyaz, a passionate computer programming and information technology student currently pursuing my Master of Computer Application degree. I am seeking an entry-level position in the IT industry where I can learn and grow. I have experience in front-end web development, Java, C, C++, Python, and SQL, as well as digital marketing and Microsoft Office. I am a quick learner, team player, critical thinker, and problem solver with excellent communication skills. I look forward to contributing my skills to a new organization and becoming a successful IT professional.</h4>
+<p align="left">Hello I am Mohammed Imtiyaz and I am Dedicated and skilled Full Stack Web Developer with a Master's in Computer Application. Adept at spearheading projects and implementing optimizations to enhance user satisfaction. Proficient in JavaScript, Java, HTML5, CSS3, Bootstrap5, React.js, and experienced in MongoDB and MySQL. Successfully completed relevant courses on Coursera and Udemy, along with HackerRank certification in Java. Commended for designing impactful mobile and web applications, showcasing strong front-end development and database management skills.</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Imtiyaz6747](https://github.com/Imtiyaz6747)
 
-- 📄 Know about my experiences [file:///D:/Imtiyaz%20resume/Imtiyaz%203.pdf](file:///D:/Imtiyaz%20resume/Imtiyaz%203.pdf)
+- 📄 Know about my experiences [file:///D:/Imtiyaz%20resume/Imtiyaz%203.pdf](file:///D:/Imtiyaz%20resume/Sinlge%20page%20resume/One%20column/Mohammed%20Imtiyaz%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
