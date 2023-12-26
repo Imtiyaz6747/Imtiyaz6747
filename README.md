@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Imtiyaz6747](https://github.com/Imtiyaz6747)
 
-- 📄 Know about my experiences [file:///D:/Imtiyaz%20resume/Sinlge%20page%20resume/One%20column/Mohammed%20Imtiyaz%20Resume.pdf]
+- 📄 Know about my experiences [ file:///D:/Imtiyaz%20resume/Sinlge%20page%20resume/One%20column/Mohammed%20Imtiyaz%20Resume.pdf ]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
