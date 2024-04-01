@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohammed Imtiyaz</h1>
-<p align="left">Hello I am Mohammed Imtiyaz and I am Dedicated and skilled Full Stack Web Developer with a Master's in Computer Application. Adept at spearheading projects and implementing optimizations to enhance user satisfaction. Proficient in JavaScript, Java, HTML5, CSS3, Bootstrap5, React.js, and experienced in MongoDB and MySQL. Successfully completed relevant courses on Coursera and Udemy, along with HackerRank certification in Java. Commended for designing impactful mobile and web applications, showcasing strong front-end development and database management skills.</p>
+<p align="left">Hello, </br> I'm Mohammed Imtiyaz, a passionate Full Stack developer and a Master of Computer Applications (MCA) graduate of 2023. I have a strong foundation in JavaScript and Java, and I'm proficient in both front-end and back-end technologies.
+
+On the front-end side, I have experience with <i> HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript (ES6), and React.js</i>. For the back-end, I'm skilled in creating <i> RESTful APIs using Node.js and ExpressJS </i>. I have worked with <i> MongoDB and MySQL </i> databases.
+
+I'm well-versed in using <i> Git/GitHub </i> for version control. My problem-solving abilities are strong and I have good communication and collaboration skills. I'm always eager to learn and grow, and I believe in the power of code to make a positive impact in the world.
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
+</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Imtiyaz6747](https://github.com/Imtiyaz6747)
 
-- 📄 Know about my experiences [ file:///D:/Imtiyaz%20resume/Sinlge%20page%20resume/One%20column/Mohammed%20Imtiyaz%20Resume.pdf ]
+- 📄 Know about my experiences ( Resume ) https://drive.google.com/file/d/1qJNZZntytm19h8adMqdDfUIj68bLgU3F/view?usp=sharing 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
