@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Imtiyaz</h1>
 <p align="left">Hello, 
 
-I'm <b> Mohammed Imtiyaz </b>, a passionate Full Stack developer and a Master of Computer Applications (MCA) graduate of 2023. I have a strong foundation in JavaScript and Java, and I'm proficient in both front-end and back-end technologies.
+I'm <b> Mohammed Imtiyaz </b>, a passionate <b>Full Stack developer</b> and a Master of Computer Applications (MCA) graduate of 2023. I have a strong foundation in JavaScript and Java, and I'm proficient in both front-end and back-end technologies.
 
 On the front-end side, I have experience with <i> HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript (ES6), and React.js</i>. For the back-end, I'm skilled in creating <i> RESTful APIs using Node.js and ExpressJS </i>. I have worked with <i> MongoDB and MySQL </i> databases.
 
@@ -19,9 +19,11 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 <a href="https://linkedin.com/in/imtiyaz6747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imtiyaz6747" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Skill:</h3>
 
 <h4>Programming Languages:</h4>
+<p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
