@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Imtiyaz</h1>
-<p align="left">Hello, </br> I'm Mohammed Imtiyaz, a passionate Full Stack developer and a Master of Computer Applications (MCA) graduate of 2023. I have a strong foundation in JavaScript and Java, and I'm proficient in both front-end and back-end technologies.
+<p align="left">Hello, 
+
+</br> I'm Mohammed Imtiyaz, a passionate Full Stack developer and a Master of Computer Applications (MCA) graduate of 2023. I have a strong foundation in JavaScript and Java, and I'm proficient in both front-end and back-end technologies.
 
 On the front-end side, I have experience with <i> HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript (ES6), and React.js</i>. For the back-end, I'm skilled in creating <i> RESTful APIs using Node.js and ExpressJS </i>. I have worked with <i> MongoDB and MySQL </i> databases.
 
